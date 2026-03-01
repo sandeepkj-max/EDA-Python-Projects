@@ -1,11 +1,8 @@
 
 Below are the list of Observations derived by the EDA process
 1. More bookings are made in City Hotels than Resort Hotel
-  
- 
-  2. November, December, January, February are the month having least bookings. Mid-year months have more bookings
-
- 3. The country of Portugal (PRT) has significantly higher number of bookings compared to any other countries.
+2. November, December, January, February are the month having least bookings. Mid-year months have more bookings
+3. The country of Portugal (PRT) has significantly higher number of bookings compared to any other countries.
 4. We can see that the avg daily rate for Resort Hotels are more spread compared to City Hotels although have lesser median rate.
 5.  We can see mid-year months have higher daily prices which is obvious as No. of bookings for mid-year months are high.
 6.  Here we observe that Highest daily price (for each year) is increasing every year.
